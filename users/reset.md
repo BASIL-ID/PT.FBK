@@ -18,7 +18,7 @@
 6. Tekan tombol `Confirm` dan jika proses berhasil akan ada pemberitahuan bahwa password Anda telah berhasil di reset. Silahkan menggunakan password baru Anda untuk [login](https://fbk.nakoa.id/login#login) kembali
 
 ------------------
-## Catatan
+## Tautan
 
 1. [login](./login.md)
 

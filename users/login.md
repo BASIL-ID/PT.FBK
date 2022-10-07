@@ -10,7 +10,7 @@
    
 
 ------------------
-## Catatan
+## Tautan
 
 1. [forgot password](./reset.md)
 
