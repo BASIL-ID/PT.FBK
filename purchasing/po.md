@@ -13,17 +13,17 @@ Purchase order (PO) atau disebut juga dengan pesanan pembelian adalah dokumen ya
 3. inputan `Required By` tidak wajib di-isi. Inputan ini bertujuan untuk menyimpan tanggal pembelian dibutuhakn paling lambat pada tanggal tertentu 
 
 4. Pada section `Accounting Dimensions`, isi `cost center` dengan outlet/pelaku pembelian. Misal jika pembelian di lakukan di holding, maka pilih Holding
-
-![](/assets/po2.png)
+   ![](/assets/po2.png)
 
 5. Pada section `Supplier Invoice Details`, apabila dari PO belum menerima dokumen dari supplier, maka tidak perlu diinput
    
-6. Pada Section `Address and Contact` masukkan informasi mengenai supplier melalui inputan `Supplier Address` dan `Supplier Contact`. Pilihan inputan akan dimuat dari data kontak `supplier` yg telah terdaftar. Anda juga dapat menambahkan data baru, apabila diperlukan.
+6. Pada Section `Address and Contact` data akan dimuat dari informasi supplier yang sudah di input sebelumnya. 
+   ![](/assets/po5.png)
 
 7. Pada inputan item, masukkan informasi item yang akan dibeli. `Item` adalah produk yang akan dibeli. `Accepted Qty` adalah jumlah qty produk yang akan dibeli. `Rate` adalah nominal harga produk per 1 satuan. Klik tombol `Add Row` untuk menambahkan beberapa produk 
 
 8. Pada inputan `Purchase Taxes and Charges` pastikan akun pajak dan nilainya sudah sesuai
-![](/assets/po3.png)
+   ![](/assets/po3.png)
 
 9. Tekan tombol `Save` untuk menyimpan PO.
 
