@@ -25,9 +25,14 @@ Purchase order (PO) atau disebut juga dengan pesanan pembelian adalah dokumen ya
 8. Pada inputan `Purchase Taxes and Charges` pastikan akun pajak dan nilainya sudah sesuai
    ![](/assets/po3.png)
 
-9. Tekan tombol `Save` untuk menyimpan PO.
+9. Pada section `Additional Discount` anda dapat mengaplikasikan potonga/diskon pembelian.
+   Pada inputan `Apply Additional Discount On` Anda dapat memilih `Grand Total` untuk mengaplikasikan diskon dengan menghitung ulang pajak. Pilih `Net Total` apabila diskon tidak menghitung pajak.
+   ![](/assets/po6.png)
+   ![](/assets/po7.png)
 
-10. Sistem akan membawa Anda ke tampilan review dokumen dengan menginformasikan bahwa dokumen yang sebelumnya Anda simpan masih bersifat `draft`. Pada saat ini, pengeditan dokumen masih dilakukan. Apabila dokumen sudah sesuai, tekan `submit` untuk mengkonfirmasi dokumen sudah sesuai. Dengan melakukan tersebut, dokumen PO akan dapat dilanjutkan pada proses penjualan berikutnya (lihat bagan pembelian pada awal halaman ini)
+10. Tekan tombol `Save` untuk menyimpan PO.
+
+11. Sistem akan membawa Anda ke tampilan review dokumen dengan menginformasikan bahwa dokumen yang sebelumnya Anda simpan masih bersifat `draft`. Pada saat ini, pengeditan dokumen masih dilakukan. Apabila dokumen sudah sesuai, tekan `submit` untuk mengkonfirmasi dokumen sudah sesuai. Dengan melakukan tersebut, dokumen PO akan dapat dilanjutkan pada proses penjualan berikutnya (lihat bagan pembelian pada awal halaman ini)
 
 ------------------
 ## Tautan
