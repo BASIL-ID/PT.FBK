@@ -14,6 +14,8 @@ Dokumentasi software ERP
   - [dp](/purchasing/po.md)
 - Master
   - [bank](/master/bank.md)
-
+  - [bankAccount](/master/bankaccount.md)
+- Stock
+  - [item](/stock/item.md)
 
 
