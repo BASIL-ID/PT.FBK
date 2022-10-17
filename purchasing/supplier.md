@@ -4,7 +4,7 @@ Untuk menambahkan supplier baru, Anda dapat mengakses melalui `Buying > Supplier
 
 ![](/assets/supplier1.png)
 
-1. Masukkan nama supplier, pada inputan `supplier name`, kemudian masukkan alamat pada section `Primary Address Details`, tekan tombol `savc`
+1. Masukkan nama supplier, pada inputan `supplier name`, kemudian masukkan alamat pada section `Primary Address Details`, tekan tombol `save`
    
    ![](/assets/supplier3.png)
 
