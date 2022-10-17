@@ -15,10 +15,14 @@ Untuk menambahkan supplier baru, Anda dapat mengakses melalui `Buying > Supplier
 
 5. Masukkan npwp supplier pada inputan `Tax ID` bila ada
 
-6. Pada section `Default Payable Accounts`, masukkan informasi akun PO supplier. (contoh pada gambar)
+6. Tambahkan informasi kontak supplier bila ada (misal sales supplier) dengan klik tombol `new contact`, dan isikan data kontak. tekan `save` untuk menyimpan (contoh gambar dibawah)
+   ![](/assets/supplier5.png)
+
+
+7. Pada section `Default Payable Accounts`, masukkan informasi akun PO supplier. (contoh pada gambar)
    ![](/assets/po4.png)
 
-7. Tekan tombol `save` untuk menyimpan data supplier
+8. Tekan tombol `save` untuk menyimpan data supplier
    ![](/assets/supplier4.png)
 
 
