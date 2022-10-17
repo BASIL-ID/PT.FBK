@@ -8,3 +8,6 @@ Dokumentasi software ERP
   - [reset](./users//reset.md)
 - Akunting
   - [coa](/accounting/coa.md)
+- Purchasing
+  - [intro](/purchasing/intro.md)
+  - [po](/purchasing/po.md)

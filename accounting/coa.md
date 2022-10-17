@@ -1,6 +1,6 @@
 # COA (Chart of Accounts)
 
-1. Setelah ANda login ke aplikasi Anda, pada menu `home`, tekan menu `Chart of Accounts` (pada menu section Accounting), atau klik [disini](https://fbk.nakoa.id/app/account/view/tree)
+1. Setelah Anda login ke aplikasi Anda, pada menu `home`, tekan menu `Chart of Accounts` (pada menu section Accounting), atau klik [disini](https://fbk.nakoa.id/app/account/view/tree)
    ![](/assets/coa1.PNG)
 2. Sebelum memulai mengisikan, ada baiknya Anda telah membuat pengaturan COA terlebih dahulu, untuk mempermudah pengisian kedalam aplikasi
 
