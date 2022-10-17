@@ -17,6 +17,10 @@ Untuk menambahkan supplier baru, Anda dapat mengakses melalui `Buying > Supplier
 
 6. Tambahkan informasi kontak supplier bila ada (misal sales supplier) dengan klik tombol `new contact`, dan isikan data kontak. tekan `save` untuk menyimpan (contoh gambar dibawah)
    ![](/assets/supplier5.png)
+   ![](/assets/supplier6.png)
+
+   * centang 'is primary contact' apabila kontak yang diaftarkan merupakan kontak pembelian utamaa dari supplier
+   * centang 'is billing contact' apabila kontak yang diaftarkan merupakan kontak billing utamaa dari supplier
 
 
 7. Pada section `Default Payable Accounts`, masukkan informasi akun PO supplier. (contoh pada gambar)
