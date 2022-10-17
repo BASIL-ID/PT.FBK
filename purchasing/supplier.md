@@ -19,6 +19,7 @@ Untuk menambahkan supplier baru, Anda dapat mengakses melalui `Buying > Supplier
    ![](/assets/po4.png)
 
 7. Tekan tombol `save` untuk menyimpan data supplier
+   ![](/assets/supplier4.png)
 
 
 ------------------
