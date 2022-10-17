@@ -10,7 +10,7 @@ Untuk menambahkan supplier baru, Anda dapat mengakses melalui `Buying > Supplier
 
 2. Setelah tersimpan, pada list `Supplier` akan bertambah supplier yang baru. Jika supplier yang anda baru tambahkan tidak muncul, tekan tombol `reload`. Kemudian klik supplier yang baru Anda tambahkan untuk melengkapi data
 
-3. Masukkan informasi akun bank supplier bila ada dengan memilih akun di `Default Company Bank Account`. Apabila belum ada, Anda dapat membuat baru dengan klik pilihan `Create a new bank account` kemudian isi informasi Nama Akun Bank Supplier, Nama Bank (pilihan), Kemudian Tipe Akun pilih `Bank Supplier`. Isi inputan `Party type` dengan `Supplier`. isi `Bank Account No` dengan nomor rekening bank. Tekan tombol `save` untuk menyimpan.
+3. Masukkan informasi akun bank supplier bila ada dengan memilih akun di `Default Company Bank Account`, kemudian klik pilihan `Create a new bank account` kemudian isi informasi Nama Akun Bank Supplier, Nama Bank (pilihan), Kemudian Tipe Akun pilih `Bank Supplier`. Isi inputan `Party type` dengan `Supplier`. isi `Bank Account No` dengan nomor rekening bank. Tekan tombol `save` untuk menyimpan.
 
 4. Masukkan npwp supplier pada inputan `Tax ID` bila ada
 
