@@ -10,12 +10,12 @@ Untuk menambahkan supplier baru, Anda dapat mengakses melalui `Buying > Supplier
 
 2. Setelah tersimpan, pada list `Supplier` akan bertambah supplier yang baru. Jika supplier yang anda baru tambahkan tidak muncul, tekan tombol `reload`. Kemudian klik supplier yang baru Anda tambahkan untuk melengkapi data
 
-3. Masukkan informasi akun bank supplier bila ada dengan memilih akun di `Default Company Bank Account`, kemudian klik pilihan `Create a new bank account` kemudian isi informasi Nama Akun Bank Supplier, Nama Bank (pilihan), Kemudian Tipe Akun pilih `Bank Supplier`. Isi inputan `Party type` dengan `Supplier`. isi `Bank Account No` dengan nomor rekening bank. Tekan tombol `save` untuk menyimpan.
+3. Masukkan informasi akun bank yang digunakan untuk melakukan pembayaran ke supplier pada kolom `Default Company Bank Account`. Apabila Akun bank belum tersedia, bisa menambahkan melalui tombol `Create a new Bank Account`. Untuk detail lihat tautan `bank account` dibawah
    ![](/assets/bank1.PNG)
 
-5. Masukkan npwp supplier pada inputan `Tax ID` bila ada
+4. Masukkan npwp supplier pada inputan `Tax ID` bila ada
 
-6. Tambahkan informasi kontak supplier bila ada (misal sales supplier) dengan klik tombol `new contact`, dan isikan data kontak. tekan `save` untuk menyimpan (contoh gambar dibawah)
+5. Tambahkan informasi kontak supplier bila ada (misal sales supplier) dengan klik tombol `new contact`, dan isikan data kontak. tekan `save` untuk menyimpan (contoh gambar dibawah)
    ![](/assets/supplier5.PNG)
    ![](/assets/supplier6.PNG)
 
@@ -23,16 +23,17 @@ Untuk menambahkan supplier baru, Anda dapat mengakses melalui `Buying > Supplier
    * centang 'is billing contact' apabila kontak yang diaftarkan merupakan kontak billing utamaa dari supplier
 
 
-7. Pada section `Default Payable Accounts`, masukkan informasi akun PO supplier. (contoh pada gambar)
+6. Pada section `Default Payable Accounts`, masukkan informasi akun PO supplier. (contoh pada gambar)
    ![](/assets/po4.PNG)
 
-8. Tekan tombol `save` untuk menyimpan data supplier
+7. Tekan tombol `save` untuk menyimpan data supplier
    ![](/assets/supplier4.PNG)
 
 
 ------------------
 ## Tautan
 1. [PO](./po.md)
+2. [Bank Account](./../master/bankaccount.md)
 
 ------------------
-versi 1.0.0
+versi 1.0.1

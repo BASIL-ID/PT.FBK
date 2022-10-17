@@ -11,5 +11,9 @@ Dokumentasi software ERP
 - Purchasing
   - [intro](/purchasing/intro.md)
   - [po](/purchasing/po.md)
+  - [dp](/purchasing/po.md)
+- Master
+  - [bank](/master/bank.md)
+
 
 
