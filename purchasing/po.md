@@ -1,7 +1,7 @@
 # PO
 Purchase order (PO) atau disebut juga dengan pesanan pembelian adalah dokumen yang dibuat untuk menunjukkan barang yang ingin dibeli.  PO digunakan sebagai kontrak yang membentuk kesepakatan antara pembeli dan penjual mengenai barang yang ingin dibeli oleh pihak pembeli.
 
-![](/assets/buying_flow_po.png)
+![](/assets/buying_flow_po.PNG)
 
 
 
@@ -13,22 +13,22 @@ Purchase order (PO) atau disebut juga dengan pesanan pembelian adalah dokumen ya
 3. inputan `Required By` tidak wajib di-isi. Inputan ini bertujuan untuk menyimpan tanggal pembelian dibutuhakn paling lambat pada tanggal tertentu 
 
 4. Pada section `Accounting Dimensions`, isi `cost center` dengan outlet/pelaku pembelian. Misal jika pembelian di lakukan di holding, maka pilih Holding
-   ![](/assets/po2.png)
+   ![](/assets/po2.PNG)
 
 5. Pada section `Supplier Invoice Details`, apabila dari PO belum menerima dokumen dari supplier, maka tidak perlu diinput
    
 6. Pada Section `Address and Contact` data akan dimuat dari informasi supplier yang sudah di input sebelumnya. 
-   ![](/assets/po5.png)
+   ![](/assets/po5.PNG)
 
 7. Pada inputan item, masukkan informasi item yang akan dibeli. `Item` adalah produk yang akan dibeli. `Accepted Qty` adalah jumlah qty produk yang akan dibeli. `Rate` adalah nominal harga produk per 1 satuan. Klik tombol `Add Row` untuk menambahkan beberapa produk 
 
 8. Pada inputan `Purchase Taxes and Charges` pastikan akun pajak dan nilainya sudah sesuai
-   ![](/assets/po3.png)
+   ![](/assets/po3.PNG)
 
 9. Pada section `Additional Discount` anda dapat mengaplikasikan potonga/diskon pembelian.
    Pada inputan `Apply Additional Discount On` Anda dapat memilih `Grand Total` untuk mengaplikasikan diskon dengan menghitung ulang pajak. Pilih `Net Total` apabila diskon tidak menghitung pajak.
-   ![](/assets/po6.png)
-   ![](/assets/po7.png)
+   ![](/assets/po6.PNG)
+   ![](/assets/po7.PNG)
 
 10. Tekan tombol `Save` untuk menyimpan PO.
 
