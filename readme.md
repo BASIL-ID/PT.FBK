@@ -10,8 +10,10 @@ Dokumentasi software ERP
   - [coa](/accounting/coa.md)
 - Purchasing
   - [intro](/purchasing/intro.md)
+  - [supplier](/purchasing/supplier.md)
   - [po](/purchasing/po.md)
-  - [dp](/purchasing/po.md)
+  - [dp](/purchasing/dp.md)
+  - [do](/purchasing/do.md)
 - Master
   - [bank](/master/bank.md)
   - [bankAccount](/master/bankaccount.md)

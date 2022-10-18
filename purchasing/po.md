@@ -1,7 +1,7 @@
 # PO
 Purchase order (PO) atau disebut juga dengan pesanan pembelian adalah dokumen yang dibuat untuk menunjukkan barang yang ingin dibeli.  PO digunakan sebagai kontrak yang membentuk kesepakatan antara pembeli dan penjual mengenai barang yang ingin dibeli oleh pihak pembeli.
 
-![](/assets/buying_flow_po.PNG)
+![](/assets/buying_flow_po..PNG)
 
 
 
