@@ -19,14 +19,10 @@
    ![](/assets/pi2.PNG)
    ![](/assets/pi1.PNG)
 
-6. Pada section `Payment Term`, Anda dapat memasukkan tanggal jatuh tempo pembayaran pada kolom `due date`. Anda juga dapat membuat template pembayaran seperti NET30 dll
-   ![](/assets/payTerm1.PNG)
-   ![](/assets/pi3.PNG)
-
-7.  Setelah dokumen disimpan, dokumen akan tersimpan dalam status `draft`, pada saat ini dokumen masih bisa di-edit. Setelah dokumen dipastikan sudah sesuai, klik tombol `submit` untuk memproses pembayaran. 
+6.  Setelah dokumen disimpan, dokumen akan tersimpan dalam status `draft`, pada saat ini dokumen masih bisa di-edit. Setelah dokumen dipastikan sudah sesuai, klik tombol `submit` untuk memproses pembayaran. 
 
 ------------------
 ## Tautan
 
 ------------------
-versi 1.0.0
+versi 1.0.1
