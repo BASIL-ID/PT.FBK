@@ -3,13 +3,12 @@
 
    ![](/assets/pi-flow.PNG)
 
-1. Pastikan bahwa `purchase order` sudah diinput, `purchase receipt` sudah di input dan penerimaan barang lengkap. Pilih PO dari daftar pembelian, kemudian klik untuk melihat detail PO.  Pada menu yang terletak di atas, klik tombol `create` dan pilih menu `purchase invoice`.
-   ![](/assets/DP0.PNG)
-   ![](/assets/DP1.PNG)
+1. Pastikan bahwa `purchase order` sudah diinput, `purchase receipt` sudah di input dan penerimaan barang lengkap. Pilih dokumen dari daftar `purchase receipt`, kemudian klik untuk melihat detail dokumen.  Pada menu yang terletak di atas, klik tombol `create` dan pilih menu `purchase invoice`.
+   ![](/assets/pr4.PNG)
 
 
 2. Pada inputan `Date` dan `Posting Time` dapat di edit dengan terlebih dahulu mencentang `Edit Posting Date and Time` (jika user diberi akses). Kemudian, masukkan dengan tanggal dan jam invoice diterima.
-   ![](/assets/pr1.PNG)
+   ![](/assets/pi4.PNG)
    
 3. Pada section `Accounting Dimensions`, isikan `cost center`. (Apabila pembelian oleh holding, dapat di-isi dengan holding)
 
