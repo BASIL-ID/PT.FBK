@@ -15,6 +15,7 @@ Dokumentasi software ERP
   - [dp](/purchasing/dp.md)
   - [purchase receipt](/purchasing/do.md)
   - [purchase invoice](/purchasing/invoice.md)
+  - [purchase invoice payment](/purchasing/payment.md)
 - Master
   - [bank](/master/bank.md)
   - [bankAccount](/master/bankaccount.md)

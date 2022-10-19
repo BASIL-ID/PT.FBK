@@ -1,4 +1,4 @@
-# Purchase INvoice
+# Purchase Invoice
 `Purchase Receipt` adalah dokumen tagihan yang dikirim oleh `supplier`, yang sebelumnya telah akibat proses `purchase order`
 
    ![](/assets/pi-flow.PNG)
