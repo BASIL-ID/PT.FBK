@@ -11,8 +11,9 @@ Apabila dalam PO (Purchase Order) telah dibuatkan invoice, maka pada proses tera
    ![](/assets/pay1.PNG)
 
 4. Pada inputan `Mode of Payment` pilih metode pembayaran.
-5. Input `Company Bank Account` dengan pilihan sumber rekening pembayaran (apabila pembayaran melalui bank)
-6. Input `Party Bank Account` dengan pilihan rekening supplier (apabila pembayaran melalui bank)
+5. Apabila tanggal pembayaran real beberda dengan tanggal input, masukkan tanggal real pembayaran pada kolom `Posting Date`
+6. Input `Company Bank Account` dengan pilihan sumber rekening pembayaran (apabila pembayaran melalui bank)
+7. Input `Party Bank Account` dengan pilihan rekening supplier (apabila pembayaran melalui bank)
    ![](/assets/DP3.PNG)
 
 7. Untuk pembayaran melalui bank, wajib mengisi data pada section `Transaction ID`. Isi `Cheque/Reference No` dengan nomor referensi transfer dan `Cheque/Reference Date` dengan tanggal transfer
@@ -27,4 +28,4 @@ Apabila dalam PO (Purchase Order) telah dibuatkan invoice, maka pada proses tera
 ## Tautan
 
 ------------------
-versi 1.0.0
+versi 1.0.1
