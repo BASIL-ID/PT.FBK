@@ -5,7 +5,7 @@
 
 1. Masukkan `Asset Category Name` dengan nama kategori aaet.
 2. Centang `Enable Capital Work in Progress Accounting` apabila aset masih belum digunakan, maka nilai aset akan dimasukkan ke akun sementara `Capital Work in Progress`. Apabila item akan digunakan, edit item ini dan hilangkan centang pada `Enable Capital Work in Progress Accounting`.
-3. Pada section `Finance Book Detail`, masukkan metode depresiasi pada `Depreciation Method`, `Frequency of Depreciation (Months)` masa berlaku aset dalam bulan setelah masa berlaku habis nilai aset akan di 0 kan, `Total Number of Depreciations`, `Total Number of Depreciations` adalah jumlah frekuensi penyusutan, `Rate of Depreciation` adalah besara penyusutan dalam persen
+3. Pada section `Finance Book Detail`, masukkan metode depresiasi pada `Depreciation Method`, `Frequency of Depreciation (Months)` frekuensi penyusutan dalam satu bulan, `Total Number of Depreciations` adalah jumlah bulan susut, `Rate of Depreciation` adalah besaran penyusutan dalam persen
 4. pada section `Accounting Details`, masukkan `company`, dan `Fixed Asset Account` dengan akun aset tetap
 
 ------------------
