@@ -17,11 +17,15 @@ Untuk menambahkan item baru, Anda dapat mengakses melalui `Stock > Item > Add It
 5. pada section `Purchase, Replenishment Details ` dapat diatur attribut pembelian item seperti defaultsatuan product `Default Purchase Unit of Measure`, minimum order, safety stock, dan lead time.
    ![](/assets/item4.PNG)
 
+6. untuk item asset, centang  `Is Fixed Asset`, kemudian masukkan `asset category` (lihat tautan dibawah untuk detail)
+
 6. Tekan tombol `save` untuk menyimpan item 
 
 ------------------
 ## Tautan
 1. [PO](./po.md)
+2. [aset](./aset.md)
+3. [aset category](./asetCategory.md)
 
 ------------------
 versi 1.0.0
