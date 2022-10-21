@@ -9,13 +9,14 @@
 4. pada section `Accounting Dimensions`, seharusnya `cost center` akan otomatis terisi, apabila belum, bisa dipilih pada pilihan `cost center` yg tersedia.
 5. pada section `Purchase Details`, masukkan `Purchase Receipt` dan `Available-for-use Date` (tanggal mulaipenggunaan aset) 
 6. pada section `Depreciation`, centang `Calculate Depreciation` untuk menghitung penyusutan aset.
-   ![](/assets/aset02.PNG)
 7. tekan save untuk menyimpan
+
 
 # Asset - DIbuat otomatis dari purchase order
 1. Buat `Purchase Order` baru (lihat tautan dibawah)
 2. pada pembuatan `item` baru, centang pilihan `Auto Create Assets on Purchase` untuk otomatis mendaftarkan aset baru
-3. pada saat pembuatan `purchase receipt`, masukkan location aset. yakni lokasi dimana asset dipakai/disimpan.
+   ![](/assets/asset-auto-create.png)
+4. pada saat pembuatan `purchase receipt`, masukkan location aset. yakni lokasi dimana asset dipakai/disimpan.
 
 ------------------
 ## Tautan
