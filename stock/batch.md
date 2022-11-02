@@ -3,10 +3,10 @@
 Item yang sudah memiliki transaksi stok (seperti purchase receipt) tidak dapat lagi diedit informasi batch nya. Jadi pastikan untuk melakukan pengaturan batch sebelum memproses transaksi item
 
 Apabila transaksi sudah terlanjur dibuat maka yang dapat dilakukan:
-- batalkan semua transaksi terkait item yang bermasalah
+- batalkan semua transaksi stock terkait item yang bermasalah
 - hapus item yang bermasalah
 - buat item baru dan atur dengan pengaturan batch yang sesuai
-- buat kembali transaksi yang sudah dibatalkan sebelumnya
+- buat kembali transaksi stock yang sudah dibatalkan sebelumnya
 
 
 ## Menambahkan Batch Pada Item Baru
