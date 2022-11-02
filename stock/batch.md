@@ -19,6 +19,8 @@ Apabila transaksi sudah terlanjur dibuat maka yang dapat dilakukan:
 3. Isikan informasi batch. Masukkan kode batch dengan format `KODE-TANGGAL` pada `batch id`, isikan `item` dengan produk yang akan diberikan informasi batch, masukkan informasi tanggal manufaktur produk (bila ada) pada kolom `Manufacturing date`, kemudian masukkan satuan produk pada `UOMS`, dan terakhir masukkan informasi kadaluarsa produk pada `expiry date`   
    ![](/assets/batch03.PNG)
 
+   *Penting*  untuk format tanggal gunakan format sebagai berikut : TAHUN kemudian BULAN dan TANGGAL. Contoh: 1 desember 2022 -> 20221201
+
 4. Tekan `save` untuk menyimpan batch baru
 
 5. Pada halaman `Purchase receipt` tekan tombol `save` untuk menyimpan, kemudian tekan `submit` apabila sudah sesuai
@@ -36,6 +38,8 @@ Buat informasi Batch dari item
 1. Buka menu batch `stock > batch > add batch`
 2. Isikan informasi batch. Masukkan kode batch dengan format `KODE-TANGGAL` pada `batch id`, isikan `item` dengan produk yang akan diberikan informasi batch, masukkan informasi tanggal manufaktur produk (bila ada) pada kolom `Manufacturing date`, kemudian masukkan satuan produk pada `UOMS`, dan terakhir masukkan informasi kadaluarsa produk pada `expiry date`   
    ![](/assets/batch03.PNG)
+
+      *Penting*  untuk format tanggal gunakan format sebagai berikut : TAHUN kemudian BULAN dan TANGGAL. Contoh: 1 desember 2022 -> 20221201
 3. Tekan `save` untuk menyimpan batch baru
 
 Untuk menambahkan informasi batch pada item stock, dapat dilakukan mealui membuat `purchase order` baru 
