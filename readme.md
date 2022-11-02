@@ -21,6 +21,8 @@ Dokumentasi software ERP
   - [bankAccount](/master/bankaccount.md)
 - Stock
   - [item](/stock/item.md)
+  - [barcode](/stock/barcode.md)
+  - [batch](/stock/batch.md)
 - Aset
   - [aset category](/aset/asetCategory.md)
   - [item](/aset/item.md)
