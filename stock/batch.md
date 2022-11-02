@@ -14,6 +14,8 @@ Apabila transaksi sudah terlanjur dibuat maka yang dapat dilakukan:
 
    ![](/assets/batch02.PNG)
 
+2. Tekan `save` untuk menyimpan
+
 ## Menambahkan Batch Pada Item
 1. Pada saat pembuatan `purchase receipt`, pada section `items` klik edit.
    ![](/assets/batch04.PNG)
@@ -23,6 +25,10 @@ Apabila transaksi sudah terlanjur dibuat maka yang dapat dilakukan:
 
 3. Isiakn informasi batch. Masukkan kode batch dengan format `KODE-TANGGAL` pada `batch id`, isikan `item` dengan produk yang akan diberikan informasi batch, masukkan informasi tanggal manufaktur produk (bila ada) pada kolom `Manufacturing date`, kemudian masukkan satuan produk pada `UOMS`, dan terakhir masukkan informasi kadaluarsa produk pada `expiry date`   
    ![](/assets/batch03.PNG)
+
+4. Tekan `save` untuk menyimpan batch baru
+
+5. Pada halaman `Purchase receipt` tekan tombol `save` untuk menyimpan, kemudian tekan `submit` apabila sudah sesuai
 
 ------------------
 ## Tautan
