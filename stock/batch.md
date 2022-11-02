@@ -20,10 +20,10 @@ Apabila transaksi sudah terlanjur dibuat maka yang dapat dilakukan:
 1. Pada saat pembuatan `purchase receipt`, pada section `items` klik edit.
    ![](/assets/batch04.PNG)
 
-2. Isikan informasi batch pada section `warehouse and reference`, apabila informasi batch blm dibuat sebelumnya, klik untuk membuat baru.
+2. Isikan informasi batch pada section `warehouse and reference` pada kolom `batch no`, apabila informasi batch blm dibuat sebelumnya, klik untuk membuat baru.
    ![](/assets/batch05.PNG)
 
-3. Isiakn informasi batch. Masukkan kode batch dengan format `KODE-TANGGAL` pada `batch id`, isikan `item` dengan produk yang akan diberikan informasi batch, masukkan informasi tanggal manufaktur produk (bila ada) pada kolom `Manufacturing date`, kemudian masukkan satuan produk pada `UOMS`, dan terakhir masukkan informasi kadaluarsa produk pada `expiry date`   
+3. Isikan informasi batch. Masukkan kode batch dengan format `KODE-TANGGAL` pada `batch id`, isikan `item` dengan produk yang akan diberikan informasi batch, masukkan informasi tanggal manufaktur produk (bila ada) pada kolom `Manufacturing date`, kemudian masukkan satuan produk pada `UOMS`, dan terakhir masukkan informasi kadaluarsa produk pada `expiry date`   
    ![](/assets/batch03.PNG)
 
 4. Tekan `save` untuk menyimpan batch baru
