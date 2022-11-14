@@ -24,6 +24,7 @@ Dokumentasi software ERP
   - [item](/stock/item.md)
   - [barcode](/stock/barcode.md)
   - [batch](/stock/batch.md)
+  - [stock entry](/stock/entry.md)
 - Aset
   - [aset category](/aset/asetCategory.md)
   - [item](/aset/item.md)
