@@ -3,8 +3,6 @@ Purchase order (PO) atau disebut juga dengan pesanan pembelian adalah dokumen ya
 
 ![](/assets/buying_flow_po..PNG)
 
-
-
 1. Buka menu `purchase order` di `Buying > Purchase Order`, kemudian klik tombol `add purchase order`
 ![](/assets/po1.PNG)
 
@@ -33,6 +31,17 @@ Purchase order (PO) atau disebut juga dengan pesanan pembelian adalah dokumen ya
 10. Tekan tombol `Save` untuk menyimpan PO.
 
 11. Sistem akan membawa Anda ke tampilan review dokumen dengan menginformasikan bahwa dokumen yang sebelumnya Anda simpan masih bersifat `draft`. Pada saat ini, pengeditan dokumen masih dilakukan. Apabila dokumen sudah sesuai, tekan `submit` untuk mengkonfirmasi dokumen sudah sesuai. Dengan melakukan tersebut, dokumen PO akan dapat dilanjutkan pada proses penjualan berikutnya (lihat bagan pembelian pada awal halaman ini)
+
+# Membatalkan/Memperbarui PO
+Tutrial ini hanya berlaku untuk `Purchase Order` yang telah di `Submit`.
+
+1. Buka dokumen PO yang akan dibatalkan `Buying > Purchase Order`
+2. Tekan tombol `cancel` untuk membatalkan
+   ![](/assets/po_cancel_00.png)
+3. Apabila dokumen telah dibuatkan `invoice` maka akan ada konfirmasi untuk membatalkan `invoice`.  Tekan `Cancel All` untuk membatalkan `invoice` juga.
+   ![](/assets/po_cancel_01.png)
+4. Apabila Anda ingin memperbarui `purchase order`, tekan `amend` untuk memperbarui dokumen. Seperti pembuatan `purchase order`, tekan tombol `save` untuk menyimpan dan kemudian setelah tersimpan tekan tombol `submit` apabila dokumen sudah sesuai. Dokumen baru akan diterbitkan dengan mereferensikan dokumen `purchase order` yang sebelumnya (amandemen).
+   ![](/assets/po_amend_01.png)
 
 ------------------
 ## Tautan
