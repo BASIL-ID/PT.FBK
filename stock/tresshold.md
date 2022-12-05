@@ -14,7 +14,13 @@ Adalah batasan jumlah stok yang ditentukan untuk melakukan pemesanan item demi m
 
    ![](/assets/tresshold01.PNG)
 
-3. Pada tab `Inventory` anda dapat mengisikan konfigurasi untuk notifikasi stok apabila stok menyentuh level tertentu. 
+3. Pada tab `Purchasing` masukkan `lead time` dengan rumusan sebagai berikut
+
+   Lead Time = durasi sebelum pemrosesan + durasi pemrosesan + durasi penyimpanan + durasi pengecekan atau quality control + durasi pengiriman
+
+   ![](/assets/tresshold04.PNG)
+
+4. Pada tab `Inventory` anda dapat mengisikan konfigurasi untuk notifikasi stok apabila stok menyentuh level tertentu. 
 
    ![](/assets/tresshold03.PNG)
 
@@ -29,7 +35,7 @@ Adalah batasan jumlah stok yang ditentukan untuk melakukan pemesanan item demi m
     
     -. Material Request Type: isikan dengan tipe aksi yang akan dilakukan sistem apabila `Re-order Level` sudah tercapai
 
-4. Tekan tombol `save` untuk menyimpan item 
+5. Tekan tombol `save` untuk menyimpan item 
 
 ------------------
 ## Tautan
