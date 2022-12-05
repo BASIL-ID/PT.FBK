@@ -16,6 +16,9 @@ Adalah batasan jumlah stok yang ditentukan untuk melakukan pemesanan item demi m
 
 3. Pada tab `Inventory` anda dapat mengisikan konfigurasi untuk notifikasi stok apabila stok menyentuh level tertentu. 
 
+   ![](/assets/tresshold03.PNG)
+
+
     -.Check in (group) : adalah gudang yang di-cek apa stoknya masih di atas stok level yang diatur sebelumnya.
 
     -. Request for : adalah gudang tujuan yang akan menerima notifikasi dan barang yang akan dibeli.
