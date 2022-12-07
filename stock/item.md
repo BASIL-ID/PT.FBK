@@ -21,7 +21,7 @@ Untuk menambahkan item baru, Anda dapat mengakses melalui `Stock > Item > Add It
 
 
 ## Ketentuan Kategori
-1. Perlengkapan: untuk semua item yang berkaitan denganperlengkapan operasional
+1. Perlengkapan: untuk semua item yang berkaitan dengan perlengkapan operasional
 2. Packaging: untuk semua item yang berkaitan dengan kemasan barang yang dijual
 3. Fixed Asset: untuk semua barang yang merupakan aset tetap
 4. Raw Material: untuk semua item yang merupakan bahan baku (termauk untuk produksi pastry dan gelato)
