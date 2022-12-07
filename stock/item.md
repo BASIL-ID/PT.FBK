@@ -19,6 +19,17 @@ Untuk menambahkan item baru, Anda dapat mengakses melalui `Stock > Item > Add It
 
 6. Tekan tombol `save` untuk menyimpan item 
 
+
+## Ketentuan Kategori
+1. Perlengkapan: untuk semua item yang berkaitan denganperlengkapan operasional
+2. Packaging: untuk semua item yang berkaitan dengan kemasan barang yang dijual
+3. Fixed Asset: untuk semua barang yang merupakan aset tetap
+4. Raw Material: untuk semua item yang merupakan bahan baku (termauk untuk produksi pastry dan gelato)
+5. Bakery: untuk semua item bakery yang dijual kepada konsumen
+6. Gelato: untuk semua item gelato yang dijual kepada konsumen
+7. Snack: untuk semua item yang dijual yang bukan termasuk dalam kategori bakery dan gelato
+
+
 ------------------
 ## Tautan
 1. [PO](./po.md)
