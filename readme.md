@@ -26,6 +26,7 @@ Dokumentasi software ERP
   - [batch](/stock/batch.md)
   - [stock entry](/stock/entry.md)
   - [stock tresshold](/stock/tresshold.md)
+  - [repack](/stock/repack.md)
 - Aset
   - [aset category](/aset/asetCategory.md)
   - [item](/aset/item.md)
