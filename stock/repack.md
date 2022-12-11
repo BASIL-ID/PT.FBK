@@ -17,9 +17,10 @@ Anda perlu memastikan item yang akan direpack dan item hasil repack telah terdaf
    ![](/assets/stockentry_04.PNG)
 6. Pada section `items` masukkan juga warehouse asal `source warehouse`, yakni gudang dimana item diambil. kemudian tambahkan kolom baru, masukkan item hasil repack pada `item code`, kemudian pada input `target warehouse`, masukkan target dimana gudang akan menyimpan hasil item repack.
    ![](/assets/stockentry_05.PNG)
-6. Masukkan jumlah barang yang akan dimutasi pada kolom `qty`
-7. Tekan `save` untuk menyimpan stock entry. Pada tahap ini dokumen masih dapat diedit.
-8. Tekan `Submit` untuk memproses dokumen. Setelah dokumen disubmit, maka dokumen tidak dapat diedit kembali.
+
+7. Masukkan jumlah barang yang akan dimutasi pada kolom `qty`
+8. Tekan `save` untuk menyimpan stock entry. Pada tahap ini dokumen masih dapat diedit.
+9. Tekan `Submit` untuk memproses dokumen. Setelah dokumen disubmit, maka dokumen tidak dapat diedit kembali.
 
 ------------------
 ## Tautan
