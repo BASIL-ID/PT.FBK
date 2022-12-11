@@ -19,6 +19,15 @@ Untuk menambahkan item baru, Anda dapat mengakses melalui `Stock > Item > Add It
 
 6. Tekan tombol `save` untuk menyimpan item 
 
+## Ketentuan Nama Item
+Isikan nama item dengan mengikuti format sebagai berikut
+
+   [MERK] [NAMA PRODUK] - [GRAMASI] 
+   
+   CONTOH:
+   Yupi Fun Gum Gummy Bag - 120gr
+   --      ---               --
+   merk    nama item         gramasi
 
 ## Ketentuan Kategori
 1. Perlengkapan: untuk semua item yang berkaitan dengan perlengkapan operasional
