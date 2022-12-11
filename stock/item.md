@@ -26,8 +26,7 @@ Isikan nama item dengan mengikuti format sebagai berikut
    
    CONTOH:
    Yupi Fun Gum Gummy Bag - 120gr
-   --      ---               --
-   merk    nama item         gramasi
+
 
 ## Ketentuan Kategori
 1. Perlengkapan: untuk semua item yang berkaitan dengan perlengkapan operasional
