@@ -24,12 +24,12 @@ Dokumentasi software ERP
   - [item](/stock/item.md)
   - [barcode](/stock/barcode.md)
   - [batch](/stock/batch.md)
-  - [stock entry](/stock/entry.md)
   - [stock tresshold](/stock/tresshold.md)
   - [repack](/stock/repack.md)
 - Aset
   - [aset category](/aset/asetCategory.md)
   - [item](/aset/item.md)
   - [aset](/aset/aset.md)
-
-
+-Warehouse
+  - [SOP](/warehouse/sop.md)
+  - [stock entry](/warehouse/entry.md)
