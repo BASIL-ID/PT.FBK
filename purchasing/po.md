@@ -43,6 +43,21 @@ Tutrial ini hanya berlaku untuk `Purchase Order` yang telah di `Submit`.
 4. Apabila Anda ingin memperbarui `purchase order`, tekan `amend` untuk memperbarui dokumen. Seperti pembuatan `purchase order`, tekan tombol `save` untuk menyimpan dan kemudian setelah tersimpan tekan tombol `submit` apabila dokumen sudah sesuai. Dokumen baru akan diterbitkan dengan mereferensikan dokumen `purchase order` yang sebelumnya (amandemen).
    ![](/assets/po_amend_01.png)
 
+# Membuat PO dari Material Request
+
+1. Buka menu `purchase order` di `Buying > Purchase Order`, kemudian klik tombol `add purchase order`
+![](/assets/po1.PNG)
+
+2. Klik menu `Get Items From` kemudian klik `Material Request`.  
+![](/assets/po8.PNG)
+
+3. Akan muncul window untuk memilih `Material Request`. Pilih `material request` yang akan di gunakan, dan tekan tombol `Get Items`  
+![](/assets/po9.PNG)
+
+1. Pada section `items` akan di muat otomatis daftar item yang ada di material request sebelumnya. Bila ada item yang berbeda supplier atau tidak jadi diproses `purchase order` nya, maka item tersebut bisa dihapuskan dari daftar. 
+![](/assets/po10.PNG)
+
+
 ------------------
 ## Tautan
 1. [Supplier](./supplier.md)
