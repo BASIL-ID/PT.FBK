@@ -30,6 +30,8 @@ Dokumentasi software ERP
   - [aset category](/aset/asetCategory.md)
   - [item](/aset/item.md)
   - [aset](/aset/aset.md)
--Warehouse
+- Warehouse
   - [SOP](/warehouse/sop.md)
   - [stock entry](/warehouse/entry.md)
+- Penjualan
+  - [Moka](/sales/moka.md)
