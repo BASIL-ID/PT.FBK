@@ -45,8 +45,6 @@ Setelah Anda menemukan permasalahannya, silahkan melakukan perbaikan data yang b
 
 ------------------
 ## Tautan
-BOM
-WORKORDER
 
 ------------------
-versi 1.0.1
+versi 1.0.0
