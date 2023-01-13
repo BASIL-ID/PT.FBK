@@ -22,7 +22,7 @@ Untuk menambahkan item baru, Anda dapat mengakses melalui `Stock > Item > Add It
 ## Ketentuan Nama Item
 Isikan nama item dengan mengikuti format sebagai berikut
 
-   [MERK] [NAMA PRODUK] - [GRAMASI] 
+   [MERK] [NAMA PRODUK][KEMASAN] - [GRAMASI] 
    
    CONTOH:
    Yupi Fun Gum Gummy Bag - 120gr
