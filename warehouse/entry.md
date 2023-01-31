@@ -19,7 +19,7 @@ Stock Entry adalah proses mencatat pergerakan stok antar gudang.
 ## Stock Entry Type
 1. Material Issue
       
-      Tipe ini akan mengurangi jumlah item didalam gudang asal (megngeluarkan item dari gudang) untukpihak diluar perusahaan.
+      Tipe ini akan mengurangi jumlah item didalam gudang asal (megngeluarkan item dari gudang) untuk pihak didalam/diluar perusahaan. Item ini juga dapat digunakan untuk membuang item (waste/disposal)
 
 2. Material Receipt
 
